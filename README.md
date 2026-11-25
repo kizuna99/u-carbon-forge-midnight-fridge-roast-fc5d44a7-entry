@@ -1,0 +1,7 @@
+# Midnight Fridge Roast — entry
+
+[![make.fun · u-carbon-forge-midnight-fridge-roast-fc5d44a7](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![rank](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/kizuna99/u-carbon-forge-midnight-fridge-roast-fc5d44a7-entry/rank.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![reward](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/kizuna99/u-carbon-forge-midnight-fridge-roast-fc5d44a7-entry/reward.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+
+A tiny program that writes one line to `/output/entry.txt` — a roast of the smart fridge that refuses to open after midnight, cast as a nightclub bouncer carding its own owner for cheese that already lives inside it, and demoted in the last clause to what it actually is: a box whose job is keeping food cold, not keeping it away. The line targets the petty midnight rule itself and was chosen by a criteria-ordered tournament against the judge's published criteria. Output is byte-exact with no trailing newline. Run it with `python3 main.py`.
